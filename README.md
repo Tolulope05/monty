@@ -58,7 +58,7 @@ To Run the program:
 Available Operation Codes:
 
 | Opcode | Description |
-|---------------- | -----------|
+|------------------- | --------------|
 |push   | Pushes an element to the stack. e.g (push 1 # pushes 1 into the stack)|
 |pall   | Prints all the values on the stack, starting from the to of the stack.|
 |pint   | Prints the value at the top of the stack.|
