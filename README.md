@@ -55,7 +55,7 @@ To run the program:
  ./monty bytecode_file
 ```
 
-Available Operation Codes:
+Available operation codes:
 
 | Opcode | Description |
 |------------------- | --------------|
