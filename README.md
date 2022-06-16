@@ -49,7 +49,7 @@ All the files are compiled in the following form:
 
 ```
 
-To Run the program:
+To run the program:
 
 ```
  ./monty bytecode_file
